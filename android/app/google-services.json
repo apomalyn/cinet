@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73333449828",
+    "firebase_url": "https://cinet-13a11.firebaseio.com",
+    "project_id": "cinet-13a11",
+    "storage_bucket": "cinet-13a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73333449828:android:2ce4e9a61f3b621d32eb71",
+        "android_client_info": {
+          "package_name": "xyz.xavierchretien.cinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73333449828-5vtukhr94gom8k26v3ha1lfnjjig1fp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.xavierchretien.cinet",
+            "certificate_hash": "62ce627343aa7f96193be0883a70d1593022b30a"
+          }
+        },
+        {
+          "client_id": "73333449828-cplel70cc6f169pdhtecg5ldccprlr0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQhgXvWD4lG1wxzOJUOkmJ2_YpvGfELtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73333449828-cplel70cc6f169pdhtecg5ldccprlr0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
